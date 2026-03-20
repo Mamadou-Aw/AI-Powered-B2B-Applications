@@ -1,5 +1,10 @@
 # AI-Powered B2B Application
 
+# Links
+live demo : https://lavish-imagination-production-2dc1.up.railway.app
+Github : https://github.com/Mamadou-Aw/AI-Powered-B2B-Applications
+Write-up : AI-Powered-B2B-Application.pdf
+
 ## Application summary
 
 This project is a small AI-powered B2B CRM copilot built for a technical assessment. It helps a sales or marketing team spot high-interest customers, suggest the most relevant campaign, and generate a personalized outreach message that can be reviewed, edited, and sent by email.
