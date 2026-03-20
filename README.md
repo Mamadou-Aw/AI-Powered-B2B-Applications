@@ -1,9 +1,10 @@
 # AI-Powered B2B Application
 
 # Links
-live demo : https://lavish-imagination-production-2dc1.up.railway.app
-Github : https://github.com/Mamadou-Aw/AI-Powered-B2B-Applications
-Write-up : AI-Powered-B2B-Application.pdf
+live demo : https://lavish-imagination-production-2dc1.up.railway.app  
+Github : https://github.com/Mamadou-Aw/AI-Powered-B2B-Applications  
+Write-up : AI-Powered-B2B-Application.pdf  
+
 
 ## Application summary
 
