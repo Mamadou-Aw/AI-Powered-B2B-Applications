@@ -37,7 +37,7 @@ const Footer = ({ theme }) => {
       </div>
       <hr className='border-gray-300 dark:border-gray-600 my-6' />
       <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.4 }} viewport={{ once: true }} className='pb-6 text-sm text-gray-500 flex justify-center sm:justify-between gap-4 flex-wrap'>
-        <p>Copyright 2025 CRM.AI. All rights reserved.</p>
+        <p>Copyright 2026 CRM.AI. All rights reserved.</p>
         <div className='flex items-center justify-between gap-4'>
           <img src={assets.facebook_icon} alt='' />
           <img src={assets.twitter_icon} alt='' />
